@@ -86,9 +86,6 @@ flutter:
     - assets/svg/
     - assets/lotties/
     - assets/translations/
-    - assets/testimonial_images/claim-rejection/
-    - assets/testimonial_images/miss-selling/
-    - assets/testimonial_images/success-stories/
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 
